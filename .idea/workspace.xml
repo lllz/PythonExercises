@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d22aa6-f2e3-4dad-8a88-642d7e6b0f6f" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise5.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -44,11 +44,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise4.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise4.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="414">
               <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="736">
+              <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -73,6 +83,7 @@
         <option value="$PROJECT_DIR$/exercise2.py" />
         <option value="$PROJECT_DIR$/exercise3.py" />
         <option value="$PROJECT_DIR$/exercise4.py" />
+        <option value="$PROJECT_DIR$/exercise5.py" />
       </list>
     </option>
   </component>
@@ -121,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise4">
+  <component name="RunManager" selected="Python.exercise5">
     <configuration name="exercise1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -194,18 +205,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <list size="4">
+    <configuration name="exercise5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Python Learning Project" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.exercise1" />
       <item index="1" class="java.lang.String" itemvalue="Python.exercise2" />
       <item index="2" class="java.lang.String" itemvalue="Python.exercise3" />
       <item index="3" class="java.lang.String" itemvalue="Python.exercise4" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exercise5" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Python.exercise4" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exercise3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exercise2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exercise1" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.exercise5" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exercise4" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exercise3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exercise2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exercise1" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531291147470</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fourth exercise">
+      <created>1531407215905</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1531407215905</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -302,7 +340,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second exercise" />
     <MESSAGE value="Third exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Third exercise" />
+    <MESSAGE value="Fourth exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fourth exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -386,6 +425,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="736">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
         </state>
       </provider>
