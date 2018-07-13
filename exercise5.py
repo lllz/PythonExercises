@@ -2,7 +2,7 @@ import random
 
 def commonEl():
     a = random.sample(range(0,100), 25)
-    b = random.sample(range(0, 100), 45)
+    b = random.sample(range(0,100), 45)
     print(a)
     print(b)
     print ("***********" *3)
