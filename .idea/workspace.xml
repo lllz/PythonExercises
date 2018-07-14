@@ -63,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -73,7 +73,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise10.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="exercise10.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise10.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -429,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531563448403</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Fifth exercise">
+      <created>1531563515033</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1531563515033</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -480,7 +487,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second exercise" />
     <MESSAGE value="Third exercise" />
-    <MESSAGE value="Fifth exercise" />
     <MESSAGE value="Sixth exercise" />
     <MESSAGE value="Seventh exercise" />
     <MESSAGE value="Fourth exercise" />
@@ -488,7 +494,8 @@
     <MESSAGE value="Ninth exercise" />
     <MESSAGE value="Tenth exercise" />
     <MESSAGE value="Eleventh exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Eleventh exercise" />
+    <MESSAGE value="Fifth exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fifth exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -685,14 +692,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise11.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
@@ -705,6 +704,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
           <folding />
         </state>
       </provider>
