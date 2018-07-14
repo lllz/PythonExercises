@@ -63,7 +63,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="exercise5.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/exercise5.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
@@ -83,7 +83,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise11.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise11.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
@@ -422,7 +422,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531563431953</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Eleventh exercise">
+      <created>1531563448403</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1531563448403</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -480,7 +487,8 @@
     <MESSAGE value="Eighth exercise" />
     <MESSAGE value="Ninth exercise" />
     <MESSAGE value="Tenth exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tenth exercise" />
+    <MESSAGE value="Eleventh exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eleventh exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -669,14 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/exercise4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -697,6 +697,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
           <folding />
         </state>
       </provider>
