@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0d22aa6-f2e3-4dad-8a88-642d7e6b0f6f" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/exercise12.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,16 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="900">
-      <file leaf-file-name="exercise2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/exercise2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="exercise3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise3.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -83,11 +74,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="exercise11.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="exercise11.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/exercise11.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="322">
               <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="exercise12.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/exercise12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -139,14 +140,15 @@
         <option value="$PROJECT_DIR$/exercise5.py" />
         <option value="$PROJECT_DIR$/exercise10.py" />
         <option value="$PROJECT_DIR$/exercise11.py" />
+        <option value="$PROJECT_DIR$/exercise12.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-18" />
-    <option name="y" value="-18" />
-    <option name="width" value="3876" />
-    <option name="height" value="2196" />
+    <option name="x" value="1975" />
+    <option name="y" value="89" />
+    <option name="width" value="1841" />
+    <option name="height" value="2091" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -188,7 +190,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.exercise11">
+  <component name="RunManager" selected="Python.exercise12">
     <configuration name="exercise10" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -225,7 +227,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="exercise4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise12" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -237,7 +239,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python Learning Project" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,19 +282,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.exercise4" />
-      <item index="1" class="java.lang.String" itemvalue="Python.exercise8" />
-      <item index="2" class="java.lang.String" itemvalue="Python.exercise9" />
-      <item index="3" class="java.lang.String" itemvalue="Python.exercise10" />
-      <item index="4" class="java.lang.String" itemvalue="Python.exercise11" />
+      <item index="0" class="java.lang.String" itemvalue="Python.exercise8" />
+      <item index="1" class="java.lang.String" itemvalue="Python.exercise9" />
+      <item index="2" class="java.lang.String" itemvalue="Python.exercise10" />
+      <item index="3" class="java.lang.String" itemvalue="Python.exercise11" />
+      <item index="4" class="java.lang.String" itemvalue="Python.exercise12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.exercise11" />
-        <item index="1" class="java.lang.String" itemvalue="Python.exercise10" />
-        <item index="2" class="java.lang.String" itemvalue="Python.exercise9" />
-        <item index="3" class="java.lang.String" itemvalue="Python.exercise8" />
-        <item index="4" class="java.lang.String" itemvalue="Python.exercise4" />
+        <item index="0" class="java.lang.String" itemvalue="Python.exercise12" />
+        <item index="1" class="java.lang.String" itemvalue="Python.exercise11" />
+        <item index="2" class="java.lang.String" itemvalue="Python.exercise10" />
+        <item index="3" class="java.lang.String" itemvalue="Python.exercise9" />
+        <item index="4" class="java.lang.String" itemvalue="Python.exercise8" />
       </list>
     </recent_temporary>
   </component>
@@ -443,7 +445,14 @@
       <option name="project" value="LOCAL" />
       <updated>1531563536484</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Eleventh exercise">
+      <created>1531563555929</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1531563555929</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -455,7 +464,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32582417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32582417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -499,10 +508,10 @@
     <MESSAGE value="Fourth exercise" />
     <MESSAGE value="Eighth exercise" />
     <MESSAGE value="Ninth exercise" />
-    <MESSAGE value="Eleventh exercise" />
     <MESSAGE value="Fifth exercise" />
     <MESSAGE value="Tenth exercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tenth exercise" />
+    <MESSAGE value="Eleventh exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Eleventh exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -719,6 +728,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
