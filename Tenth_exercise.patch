@@ -1,0 +1,110 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(revision 633c8dac0aa15640d10adbfcf0f6a98123c0517c)
++++ .idea/workspace.xml	(date 1531563410023)
+@@ -2,7 +2,6 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="d0d22aa6-f2e3-4dad-8a88-642d7e6b0f6f" name="Default" comment="">
+-      <change beforePath="" afterPath="$PROJECT_DIR$/exercise11.py" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+     </list>
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+@@ -74,7 +73,7 @@
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="exercise10.py" pinned="false" current-in-tab="false">
++      <file leaf-file-name="exercise10.py" pinned="false" current-in-tab="true">
+         <entry file="file://$PROJECT_DIR$/exercise10.py">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="0">
+@@ -84,7 +83,7 @@
+           </provider>
+         </entry>
+       </file>
+-      <file leaf-file-name="exercise11.py" pinned="false" current-in-tab="true">
++      <file leaf-file-name="exercise11.py" pinned="false" current-in-tab="false">
+         <entry file="file://$PROJECT_DIR$/exercise11.py">
+           <provider selected="true" editor-type-id="text-editor">
+             <state relative-caret-position="322">
+@@ -143,11 +142,11 @@
+       </list>
+     </option>
+   </component>
+-  <component name="ProjectFrameBounds">
+-    <option name="x" value="1979" />
+-    <option name="y" value="69" />
+-    <option name="width" value="1841" />
+-    <option name="height" value="2091" />
++  <component name="ProjectFrameBounds" extendedState="6">
++    <option name="x" value="-18" />
++    <option name="y" value="-18" />
++    <option name="width" value="3876" />
++    <option name="height" value="2196" />
+   </component>
+   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+     <ConfirmationsSetting value="2" id="Add" />
+@@ -409,11 +408,18 @@
+       <option name="project" value="LOCAL" />
+       <updated>1531516131237</updated>
+     </task>
+-    <option name="localTasksCounter" value="15" />
++    <task id="LOCAL-00015" summary="Ninth exercise">
++      <created>1531563287559</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1531563287559</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+   <component name="ToolWindowManager">
+-    <frame x="1979" y="69" width="1841" height="2091" extended-state="0" />
++    <frame x="-18" y="-18" width="3876" height="2196" extended-state="6" />
+     <editor active="true" />
+     <layout>
+       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.0945946" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+@@ -421,7 +427,7 @@
+       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3457726" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
++      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32582417" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+@@ -659,14 +665,6 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="184">
+           <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+-          <folding />
+-        </state>
+-      </provider>
+-    </entry>
+-    <entry file="file://$PROJECT_DIR$/exercise10.py">
+-      <provider selected="true" editor-type-id="text-editor">
+-        <state relative-caret-position="0">
+-          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+           <folding />
+         </state>
+       </provider>
+@@ -683,6 +681,14 @@
+       <provider selected="true" editor-type-id="text-editor">
+         <state relative-caret-position="322">
+           <caret line="7" column="39" lean-forward="true" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
++          <folding />
++        </state>
++      </provider>
++    </entry>
++    <entry file="file://$PROJECT_DIR$/exercise10.py">
++      <provider selected="true" editor-type-id="text-editor">
++        <state relative-caret-position="0">
++          <caret line="0" column="22" lean-forward="false" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+           <folding />
+         </state>
+       </provider>
